@@ -1,25 +1,25 @@
 #!/bin/bash
 date
 echo "java=========================================================="
-/home/hq/IdeaProjects/git.sh
+cd /home/hq/IdeaProjects && ./git.sh
 
 echo "python========================================================"
-/home/hq/PycharmProjects/git.sh
+cd /home/hq/PycharmProjects && ./git.sh
 
 echo "android======================================================="
-/home/hq/AndroidStudioProjects/git.sh
+cd /home/hq/AndroidStudioProjects && ./git.sh
 
 echo "md============================================================"
-/home/hq/Desktop/md /git.sh
+cd /home/hq/Desktop/md && ./git.sh
 
 echo "algorithm====================================================="
-/home/hq/Desktop/algorithm/git.sh
+cd /home/hq/Desktop/algorithm && ./git.sh
 
 echo "junior_project================================================"
-/home/hq/Desktop/junior_project/git.sh
+cd /home/hq/Desktop/junior_project && ./git.sh
 
 echo "script========================================================"
-/home/hq/script/git.sh
+cd /home/hq/script && ./git.sh
 
 echo "finish========================================================"
 echo "finish========================================================"
