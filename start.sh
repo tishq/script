@@ -1,5 +1,4 @@
 #!/bin/bash
-ssr restart
 sudo docker restart mysql
 sudo docker restart redis
 sudo docker restart mongo
