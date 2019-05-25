@@ -183,3 +183,58 @@ script========================================================
 finish========================================================
 finish========================================================
 finish========================================================
+2019年 05月 25日 星期六 13:00:01 CST
+java==========================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 5b0b3c1] commit
+ 15 files changed, 1391 insertions(+), 125 deletions(-)
+ delete mode 100644 csdn-elasticsearch/es_py/es_py2.py
+ create mode 100644 flask-rest-crud/.idea/dataSources.local.xml
+ create mode 100644 flask-rest-crud/.idea/dataSources.xml
+ create mode 100644 flask-rest-crud/.idea/dataSources/26c6ccb0-23dd-4c63-b65c-d8a6a88ce485.xml
+ rewrite flask-rest-crud/__pycache__/app.cpython-36.pyc (88%)
+ create mode 100644 flask-rest-crud/__pycache__/es_rest.cpython-36.pyc
+ create mode 100644 flask-rest-crud/__pycache__/test.cpython-36.pyc
+ create mode 100644 flask-rest-crud/es_rest.py
+ create mode 100644 flask-rest-crud/test.py
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+[master 9914507] commit
+ 11 files changed, 32 insertions(+), 6 deletions(-)
+ create mode 100644 2019-05-23.md
+ create mode 100644 2019-05-25.md
+ delete mode 100644 imgs/003_2019-05-18.png
+ rename imgs/{002_2019-05-18.png => 2019-05-18_002.png} (100%)
+ rename imgs/{001_2019-05-18.png => 2019-05-18_oo1.png} (100%)
+ create mode 100644 imgs/2019-05-24_001.png
+ create mode 100644 imgs/2019-05-24_002.png
+ create mode 100644 imgs/2019-05-24_003.png
+ create mode 100644 imgs/2019-05-24_004.png
+ create mode 100644 imgs/2019-05-24_005.png
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+junior_project================================================
+已经是最新的。
+[master 76aeb46] commit
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
