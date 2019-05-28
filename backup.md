@@ -292,3 +292,64 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 47773c8] commit
+ 1 file changed, 54 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 05月 28日 星期二 20:00:01 CST
+java==========================================================
+[master 796216a] commit
+ 11 files changed, 683 insertions(+), 23 deletions(-)
+ create mode 100644 demo/.gitignore
+ create mode 100644 demo/.mvn/wrapper/MavenWrapperDownloader.java
+ create mode 100644 demo/.mvn/wrapper/maven-wrapper.jar
+ create mode 100644 demo/.mvn/wrapper/maven-wrapper.properties
+ create mode 100755 demo/mvnw
+ create mode 100644 demo/mvnw.cmd
+ create mode 100644 demo/pom.xml
+ create mode 100644 demo/src/main/java/com/example/demo/DemoApplication.java
+ create mode 100644 demo/src/main/resources/application.properties
+ create mode 100644 demo/src/test/java/com/example/demo/DemoApplicationTests.java
+python========================================================
+[master 691be97] commit
+ 19 files changed, 565 insertions(+), 55 deletions(-)
+ create mode 100644 github/.idea/github.iml
+ create mode 100644 github/.idea/misc.xml
+ create mode 100644 github/.idea/modules.xml
+ create mode 100644 github/.idea/vcs.xml
+ create mode 100644 github/.idea/workspace.xml
+ create mode 100644 github/github/__init__.py
+ create mode 100644 github/github/__pycache__/__init__.cpython-36.pyc
+ create mode 100644 github/github/__pycache__/settings.cpython-36.pyc
+ create mode 100644 github/github/items.py
+ create mode 100644 github/github/middlewares.py
+ create mode 100644 github/github/pipelines.py
+ create mode 100644 github/github/settings.py
+ create mode 100644 github/github/spiders/__init__.py
+ create mode 100644 github/github/spiders/__pycache__/__init__.cpython-36.pyc
+ create mode 100644 github/github/spiders/github_spider.py
+ create mode 100644 github/github/spiders/test.py
+ create mode 100644 github/scrapy.cfg
+android=======================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+md============================================================
+[master 9b8463a] commit
+ 3 files changed, 4 insertions(+), 5 deletions(-)
+ create mode 100644 2019-05-27.md
+ create mode 100644 2019-05-28.md
+algorithm=====================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+junior_project================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+script========================================================
