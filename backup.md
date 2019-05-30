@@ -353,3 +353,55 @@ junior_project================================================
 
 无文件要提交，干净的工作区
 script========================================================
+[master 09eb118] commit
+ 1 file changed, 61 insertions(+)
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 05月 30日 星期四 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master 6cf01ba] commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 12271cc] commit
+ 18 files changed, 344 insertions(+), 118 deletions(-)
+ rewrite csdn-elasticsearch/csdn/__pycache__/items.cpython-36.pyc (93%)
+ rewrite csdn-elasticsearch/csdn/__pycache__/settings.cpython-36.pyc (99%)
+ create mode 100644 csdn-elasticsearch/csdn/spiders/__pycache__/aa.cpython-36.pyc
+ rewrite csdn-elasticsearch/csdn/spiders/__pycache__/csdn_first.cpython-36.pyc (73%)
+ create mode 100644 csdn-elasticsearch/csdn/spiders/__pycache__/csdn_second.cpython-36.pyc
+ create mode 100644 csdn-elasticsearch/csdn/spiders/aa.py
+ create mode 100644 csdn-elasticsearch/csdn/spiders/csdn_second.py
+ create mode 100644 csdn-elasticsearch/csdn/spiders/request.py
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+[master 7b5e72f] commit
+ 1 file changed, 9 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。

@@ -10,3 +10,4 @@ sudo docker restart es00
 #nohup scrapyd &
 pkill frpc
 cd /home/hq/TISHQ/frp && ./auto.sh
+
