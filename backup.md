@@ -405,3 +405,84 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master b8b422e] commit
+ 2 files changed, 53 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 05月 31日 星期五 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master 48a7ec1] commit
+ 24 files changed, 88 insertions(+), 759 deletions(-)
+ delete mode 100644 demo/.gitignore
+ delete mode 100644 demo/.mvn/wrapper/MavenWrapperDownloader.java
+ delete mode 100644 demo/.mvn/wrapper/maven-wrapper.jar
+ delete mode 100644 demo/.mvn/wrapper/maven-wrapper.properties
+ delete mode 100755 demo/mvnw
+ delete mode 100644 demo/mvnw.cmd
+ delete mode 100644 demo/pom.xml
+ delete mode 100644 demo/src/main/java/com/example/demo/DemoApplication.java
+ delete mode 100644 demo/src/main/resources/application.properties
+ delete mode 100644 demo/src/test/java/com/example/demo/DemoApplicationTests.java
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/DemoApplication.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/bean/Dog.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/bean/Person.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/component/LoginHandlerInterceptor.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/config/MyAppConfig.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/controller/HelloController.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/controller/LoginControler.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/controller/UserController.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/entity/Article.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/entity/User.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/repository/UserRepository.class
+ delete mode 100644 springboot_login/target/classes/cn/tishq/springboot_login/service/HelloService.class
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 0ae8172] commit
+ 17 files changed, 2129 insertions(+), 4034 deletions(-)
+ rewrite Algorithm/.idea/workspace.xml (92%)
+ create mode 100644 "Algorithm/\347\254\254\344\272\214\347\253\240 \346\225\260\346\215\256\345\244\204\347\220\206\345\267\245\345\205\267\345\256\236\351\252\214.pdf"
+ rewrite article_scrapy/.idea/workspace.xml (94%)
+ create mode 100644 article_scrapy/article_scrapy/__pycache__/items.cpython-36.pyc
+ create mode 100644 article_scrapy/article_scrapy/__pycache__/pipelines.cpython-36.pyc
+ rewrite article_scrapy/article_scrapy/__pycache__/settings.cpython-36.pyc (98%)
+ rewrite article_scrapy/article_scrapy/spiders/__pycache__/csdn.cpython-36.pyc (99%)
+ create mode 100644 article_scrapy/article_scrapy/spiders/__pycache__/github.cpython-36.pyc
+ create mode 100644 article_scrapy/article_scrapy/spiders/__pycache__/github_first.cpython-36.pyc
+ create mode 100644 article_scrapy/article_scrapy/spiders/csdn.json
+ create mode 100644 article_scrapy/article_scrapy/spiders/github_first.json
+ create mode 100644 article_scrapy/article_scrapy/spiders/github_first.py
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
