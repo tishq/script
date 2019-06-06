@@ -953,3 +953,58 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master d3edda7] commit
+ 4 files changed, 456 insertions(+), 13 deletions(-)
+ create mode 100755 me.sh
+ create mode 100644 resolv.conf
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 06月 06日 星期四 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master abb1d02] commit
+ 6 files changed, 460 insertions(+), 2619 deletions(-)
+ rewrite springboot_login/springboot.log (99%)
+ create mode 100644 springboot_login/springboot.log.2019-06-03.0.gz
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 976eda5] commit
+ 7 files changed, 191 insertions(+), 171 deletions(-)
+ create mode 100644 article_scrapy/flask_rest_api/cf_item.py
+ create mode 100644 article_scrapy/flask_rest_api/cf_user.py
+ create mode 100644 article_scrapy/flask_rest_api/kg.py
+ create mode 100644 article_scrapy/flask_rest_api/test.py
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+[master 2538cce] commit
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 2019-06-06.md
+ create mode 100644 Untitled.md
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
