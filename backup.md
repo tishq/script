@@ -1346,3 +1346,56 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 2f3f404] commit
+ 1 file changed, 50 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 06月 14日 星期五 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master 842e419] commit
+ 3 files changed, 70 insertions(+), 33 deletions(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master d19dcdd] commit
+ 11 files changed, 450 insertions(+), 251 deletions(-)
+ rewrite article_scrapy/article_scrapy/__pycache__/pipelines.cpython-36.pyc (68%)
+ rewrite article_scrapy/article_scrapy/__pycache__/settings.cpython-36.pyc (97%)
+ rewrite article_scrapy/article_scrapy/spiders/__pycache__/csdn.cpython-36.pyc (83%)
+ rename article_scrapy/flask_rest_api/{kg.py => kg_build.py} (53%)
+ create mode 100644 article_scrapy/flask_rest_api/kg_build_r.py
+ create mode 100644 article_scrapy/flask_rest_api/kg_r.py
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
