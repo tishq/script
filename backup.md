@@ -1399,3 +1399,56 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 0b86627] commit
+ 5 files changed, 348 insertions(+)
+ create mode 100644 es_rest.py
+ create mode 100644 kg_build_r.py
+ create mode 100644 kg_r.py
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 06月 15日 星期六 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master 6289f17] commit
+ 3 files changed, 63 insertions(+), 45 deletions(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master dbc96b1] commit
+ 9 files changed, 321 insertions(+), 153 deletions(-)
+ rewrite article_scrapy/article_scrapy/spiders/__pycache__/csdn.cpython-36.pyc (95%)
+ create mode 100644 article_scrapy/tools/__pycache__/fillter.cpython-36.pyc
+ create mode 100644 article_scrapy/tools/fillter.py
+ create mode 100644 article_scrapy/tools/redis_set.py
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+[master 7c3199f] commit
+ 1 file changed, 6 insertions(+)
+ create mode 100644 2019-06-14.md
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
