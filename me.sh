@@ -10,6 +10,7 @@ sudo docker restart neo4j
 #nohup redis-desktop-manager.rdm &
 #nohup robomongo &
 #nohup scrapyd &
+nohup postman &
 
 pkill frpc
 cd /home/hq/TISHQ/frp && ./auto.sh
@@ -21,3 +22,5 @@ python /home/hq/TISHQ/script/kg_build_r.py &
 
 # start jar
 cd /home/hq/TISHQ/jar && ./auto.sh
+
+

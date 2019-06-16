@@ -1452,3 +1452,52 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 696b009] commit
+ 2 files changed, 17889 insertions(+)
+ create mode 100644 nohup.out
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 06月 16日 星期日 20:00:01 CST
+java==========================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+python========================================================
+[master 3847523] commit
+ 21 files changed, 709 insertions(+), 203 deletions(-)
+ rewrite article_scrapy/article_scrapy/spiders/__pycache__/csdn.cpython-36.pyc (96%)
+ rewrite article_scrapy/article_scrapy/spiders/__pycache__/github_first.cpython-36.pyc (93%)
+ create mode 100644 article_scrapy/article_scrapy/spiders/__pycache__/html.cpython-36.pyc
+ create mode 100644 article_scrapy/article_scrapy/spiders/__pycache__/java_runoob.cpython-36.pyc
+ create mode 100644 article_scrapy/article_scrapy/spiders/__pycache__/pythonTutorial.cpython-36.pyc
+ create mode 100644 article_scrapy/article_scrapy/spiders/__pycache__/python_org.cpython-36.pyc
+ create mode 100644 article_scrapy/article_scrapy/spiders/html.py
+ create mode 100644 article_scrapy/article_scrapy/spiders/java_runoob.py
+ create mode 100644 article_scrapy/article_scrapy/spiders/pythonTutorial.py
+ create mode 100644 article_scrapy/article_scrapy/spiders/python_org.py
+ create mode 100644 article_scrapy/request/csdn.py
+ create mode 100644 article_scrapy/tools/mongo.py
+android=======================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+md============================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+algorithm=====================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+junior_project================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+script========================================================
