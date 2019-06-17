@@ -1501,3 +1501,476 @@ junior_project================================================
 
 无文件要提交，干净的工作区
 script========================================================
+[master 883d949] commit
+ 2 files changed, 52 insertions(+)
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 06月 17日 星期一 20:00:01 CST
+java==========================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 97046c9] commit
+ 20 files changed, 388 insertions(+), 395 deletions(-)
+ rewrite article_scrapy/article_scrapy/spiders/__pycache__/github_first.cpython-36.pyc (60%)
+ rewrite article_scrapy/article_scrapy/spiders/__pycache__/java_runoob.cpython-36.pyc (73%)
+ rewrite article_scrapy/article_scrapy/spiders/__pycache__/pythonTutorial.cpython-36.pyc (62%)
+ rewrite article_scrapy/article_scrapy/spiders/__pycache__/python_org.cpython-36.pyc (80%)
+ rewrite article_scrapy/article_scrapy/spiders/python_org.py (83%)
+ rewrite article_scrapy/flask_rest_api/kg_r.py (65%)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+[master cc0c41e] commit
+ 49 files changed, 1206 insertions(+)
+ create mode 100644 MyApplication/.gitignore
+ create mode 100644 MyApplication/.idea/encodings.xml
+ create mode 100644 MyApplication/.idea/gradle.xml
+ create mode 100644 MyApplication/.idea/misc.xml
+ create mode 100644 MyApplication/.idea/runConfigurations.xml
+ create mode 100644 MyApplication/.idea/vcs.xml
+ create mode 100644 MyApplication/app/.gitignore
+ create mode 100644 MyApplication/app/build.gradle
+ create mode 100644 MyApplication/app/proguard-rules.pro
+ create mode 100644 MyApplication/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java
+ create mode 100644 MyApplication/app/src/main/AndroidManifest.xml
+ create mode 100644 MyApplication/app/src/main/java/com/example/myapplication/MainActivity.java
+ create mode 100644 MyApplication/app/src/main/java/com/example/myapplication/MoreMegActivity.java
+ create mode 100644 MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+ create mode 100644 MyApplication/app/src/main/res/drawable/b1.jpg
+ create mode 100644 MyApplication/app/src/main/res/drawable/b2.jpg
+ create mode 100644 MyApplication/app/src/main/res/drawable/b3.jpg
+ create mode 100644 MyApplication/app/src/main/res/drawable/b4.jpg
+ create mode 100644 MyApplication/app/src/main/res/drawable/b6.jpg
+ create mode 100644 MyApplication/app/src/main/res/drawable/b7.jpg
+ create mode 100644 MyApplication/app/src/main/res/drawable/b8.jpeg
+ create mode 100644 MyApplication/app/src/main/res/drawable/b9.jpg
+ create mode 100644 MyApplication/app/src/main/res/drawable/ic_launcher_background.xml
+ create mode 100644 MyApplication/app/src/main/res/drawable/main_bottom.xml
+ create mode 100644 MyApplication/app/src/main/res/layout/activity_main.xml
+ create mode 100644 MyApplication/app/src/main/res/layout/activity_more_msg.xml
+ create mode 100644 MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+ create mode 100644 MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+ create mode 100644 MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png
+ create mode 100644 MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+ create mode 100644 MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png
+ create mode 100644 MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+ create mode 100644 MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+ create mode 100644 MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+ create mode 100644 MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+ create mode 100644 MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+ create mode 100644 MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+ create mode 100644 MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+ create mode 100644 MyApplication/app/src/main/res/values/colors.xml
+ create mode 100644 MyApplication/app/src/main/res/values/strings.xml
+ create mode 100644 MyApplication/app/src/main/res/values/styles.xml
+ create mode 100644 MyApplication/app/src/test/java/com/example/myapplication/ExampleUnitTest.java
+ create mode 100644 MyApplication/build.gradle
+ create mode 100644 MyApplication/gradle.properties
+ create mode 100644 MyApplication/gradle/wrapper/gradle-wrapper.jar
+ create mode 100644 MyApplication/gradle/wrapper/gradle-wrapper.properties
+ create mode 100755 MyApplication/gradlew
+ create mode 100644 MyApplication/gradlew.bat
+ create mode 100644 MyApplication/settings.gradle
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+[master 90eb7e5] commit
+ 1 file changed, 1 insertion(+), 9 deletions(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+更新 5b59996..32351bf
+Fast-forward
+ .../Community-service/Community-service.iml        | 214 +++++++++++++++
+ source/third_iteration/Community-service/HELP.md   |  14 +
+ source/third_iteration/Community-service/mvnw      | 286 +++++++++++++++++++++
+ source/third_iteration/Community-service/mvnw.cmd  | 161 ++++++++++++
+ source/third_iteration/Community-service/pom.xml   | 110 ++++++++
+ .../com/example/demo/CommunityApplication.java     |  13 +
+ .../com/example/demo/config/MasterDataBase.java    |  85 ++++++
+ .../com/example/demo/config/SlaveDataBase.java     |  84 ++++++
+ .../java/com/example/demo/config/beanConfig.java   |  69 +++++
+ .../demo/controller/CommunityPostController.java   |  55 ++++
+ .../demo/controller/PostContentController.java     |  44 ++++
+ .../example/demo/dao/master/CommunityPostDao.java  |  18 ++
+ .../example/demo/dao/master/PostContentDao.java    |  20 ++
+ .../demo/dao/slave/CommunityPostDaoSlave.java      |  18 ++
+ .../demo/dao/slave/PostContentDaoSlave.java        |  20 ++
+ .../com/example/demo/entity/CommunityPost.java     |  49 ++++
+ .../java/com/example/demo/entity/PostContent.java  |  41 +++
+ .../example/demo/service/CommunityPostService.java |  14 +
+ .../example/demo/service/PostContentService.java   |  13 +
+ .../demo/service/impl/CommunityPostImpl.java       |  40 +++
+ .../demo/service/impl/PostContentServiceImpl.java  |  33 +++
+ .../src/main/resources/application.properties      |  25 ++
+ .../src/main/resources/application.yml             |  29 +++
+ .../example/demo/CommunityApplicationTests.java    |  16 ++
+ .../target/classes/application.properties          |  25 ++
+ .../target/classes/application.yml                 |  29 +++
+ .../com/example/demo/CommunityApplication.class    | Bin 0 -> 748 bytes
+ .../com/example/demo/config/MasterDataBase.class   | Bin 0 -> 4031 bytes
+ .../com/example/demo/config/SlaveDataBase.class    | Bin 0 -> 4032 bytes
+ .../com/example/demo/config/beanConfig.class       | Bin 0 -> 1488 bytes
+ .../demo/controller/CommunityPostController.class  | Bin 0 -> 2719 bytes
+ .../demo/controller/PostContentController.class    | Bin 0 -> 2318 bytes
+ .../example/demo/dao/master/CommunityPostDao.class | Bin 0 -> 636 bytes
+ .../example/demo/dao/master/PostContentDao.class   | Bin 0 -> 977 bytes
+ .../demo/dao/slave/CommunityPostDaoSlave.class     | Bin 0 -> 645 bytes
+ .../demo/dao/slave/PostContentDaoSlave.class       | Bin 0 -> 986 bytes
+ .../com/example/demo/entity/CommunityPost.class    | Bin 0 -> 4228 bytes
+ .../com/example/demo/entity/PostContent.class      | Bin 0 -> 4754 bytes
+ .../demo/service/CommunityPostService.class        | Bin 0 -> 374 bytes
+ .../example/demo/service/PostContentService.class  | Bin 0 -> 385 bytes
+ .../demo/service/impl/CommunityPostImpl.class      | Bin 0 -> 2216 bytes
+ .../demo/service/impl/PostContentServiceImpl.class | Bin 0 -> 1753 bytes
+ .../community-service-1.0-formal.jar.original      | Bin 0 -> 20720 bytes
+ .../target/maven-archiver/pom.properties           |   4 +
+ .../compile/default-compile/createdFiles.lst       |  16 ++
+ .../compile/default-compile/inputFiles.lst         |  16 ++
+ .../default-testCompile/createdFiles.lst           |   1 +
+ .../testCompile/default-testCompile/inputFiles.lst |   1 +
+ ...-com.example.demo.CommunityApplicationTests.xml |  65 +++++
+ .../com.example.demo.CommunityApplicationTests.txt |   4 +
+ .../example/demo/CommunityApplicationTests.class   | Bin 0 -> 637 bytes
+ source/third_iteration/recommend-service/HELP.md   |  14 +
+ source/third_iteration/recommend-service/mvnw      | 286 +++++++++++++++++++++
+ source/third_iteration/recommend-service/mvnw.cmd  | 161 ++++++++++++
+ source/third_iteration/recommend-service/pom.xml   | 114 ++++++++
+ .../recommend-service/recommend-service.iml        | 215 ++++++++++++++++
+ .../com/example/demo/RecommendApplication.java     |  26 ++
+ .../com/example/demo/config/MasterDataBase.java    |  85 ++++++
+ .../com/example/demo/config/SlaveDataBase.java     |  84 ++++++
+ .../java/com/example/demo/config/beanConfig.java   |  69 +++++
+ .../com/example/demo/controller/MessageBus.java    |  31 +++
+ .../controller/RecommendArticleController.java     |  87 +++++++
+ .../demo/controller/UserWithArticleController.java |  73 ++++++
+ .../main/java/com/example/demo/dao/ArticleDao.java |  24 ++
+ .../example/demo/dao/master/RecommendTempDao.java  |  20 ++
+ .../example/demo/dao/master/UserArticleDao.java    |  24 ++
+ .../demo/dao/master/UserArticleFutureDao.java      |  22 ++
+ .../demo/dao/master/UserArticleFutureItemDao.java  |  18 ++
+ .../demo/dao/master/UserArticleFutureKnnDao.java   |  18 ++
+ .../demo/dao/slave/UserArticleDaoSlave.java        |  17 ++
+ .../demo/dao/slave/UserArticleFutureDaoSlave.java  |  16 ++
+ .../main/java/com/example/demo/entity/Article.java |  42 +++
+ .../com/example/demo/entity/RecommendTemp.java     |  59 +++++
+ .../com/example/demo/entity/UserArticleFuture.java |  40 +++
+ .../example/demo/entity/UserArticleFutureItem.java |  39 +++
+ .../example/demo/entity/UserArticleFutureKnn.java  |  39 +++
+ .../example/demo/entity/UserArticleHistory.java    |  57 ++++
+ .../com/example/demo/service/RecommendArticle.java |  20 ++
+ .../service/RecommendArticleArbitraryService.java  |  14 +
+ .../example/demo/service/UserArticleService.java   |  15 ++
+ .../demo/service/impl/RecommendArticleAllImpl.java |  81 ++++++
+ .../impl/RecommendArticleArbitraryServiceImpl.java |  60 +++++
+ .../impl/RecommendArticleByDiagramImpl.java        |  75 ++++++
+ .../service/impl/RecommendArticleByItemImpl.java   |  83 ++++++
+ .../service/impl/RecommendArticleByKnnImpl.java    |  84 ++++++
+ .../impl/RecommendArticleByNeighbourImpl.java      |  93 +++++++
+ .../demo/service/impl/UserArticleServiceImpl.java  |  59 +++++
+ .../src/main/resources/application.properties      |  25 ++
+ .../src/main/resources/application.yml             |  29 +++
+ .../example/demo/CommunityApplicationTests.java    |  33 +++
+ .../target/classes/application.properties          |  25 ++
+ .../target/classes/application.yml                 |  29 +++
+ .../com/example/demo/RecommendApplication.class    | Bin 0 -> 1126 bytes
+ .../com/example/demo/config/MasterDataBase.class   | Bin 0 -> 4031 bytes
+ .../com/example/demo/config/SlaveDataBase.class    | Bin 0 -> 4032 bytes
+ .../com/example/demo/config/beanConfig.class       | Bin 0 -> 1488 bytes
+ .../com/example/demo/controller/MessageBus.class   | Bin 0 -> 1424 bytes
+ .../controller/RecommendArticleController.class    | Bin 0 -> 4724 bytes
+ .../controller/UserWithArticleController.class     | Bin 0 -> 2484 bytes
+ .../classes/com/example/demo/dao/ArticleDao.class  | Bin 0 -> 1010 bytes
+ .../example/demo/dao/master/RecommendTempDao.class | Bin 0 -> 577 bytes
+ .../example/demo/dao/master/UserArticleDao.class   | Bin 0 -> 1167 bytes
+ .../demo/dao/master/UserArticleFutureDao.class     | Bin 0 -> 1060 bytes
+ .../demo/dao/master/UserArticleFutureItemDao.class | Bin 0 -> 726 bytes
+ .../demo/dao/master/UserArticleFutureKnnDao.class  | Bin 0 -> 722 bytes
+ .../demo/dao/slave/UserArticleDaoSlave.class       | Bin 0 -> 813 bytes
+ .../demo/dao/slave/UserArticleFutureDaoSlave.class | Bin 0 -> 719 bytes
+ .../classes/com/example/demo/entity/Article.class  | Bin 0 -> 4856 bytes
+ .../com/example/demo/entity/RecommendTemp.class    | Bin 0 -> 4109 bytes
+ .../example/demo/entity/UserArticleFuture.class    | Bin 0 -> 3415 bytes
+ .../demo/entity/UserArticleFutureItem.class        | Bin 0 -> 3442 bytes
+ .../example/demo/entity/UserArticleFutureKnn.class | Bin 0 -> 3431 bytes
+ .../example/demo/entity/UserArticleHistory.class   | Bin 0 -> 4284 bytes
+ .../example/demo/service/RecommendArticle.class    | Bin 0 -> 733 bytes
+ .../service/RecommendArticleArbitraryService.class | Bin 0 -> 334 bytes
+ .../example/demo/service/UserArticleService.class  | Bin 0 -> 492 bytes
+ .../service/impl/RecommendArticleAllImpl.class     | Bin 0 -> 2947 bytes
+ .../RecommendArticleArbitraryServiceImpl.class     | Bin 0 -> 3959 bytes
+ .../impl/RecommendArticleByDiagramImpl$1.class     | Bin 0 -> 922 bytes
+ .../impl/RecommendArticleByDiagramImpl.class       | Bin 0 -> 5129 bytes
+ .../service/impl/RecommendArticleByItemImpl.class  | Bin 0 -> 3784 bytes
+ .../service/impl/RecommendArticleByKnnImpl.class   | Bin 0 -> 3772 bytes
+ .../impl/RecommendArticleByNeighbourImpl.class     | Bin 0 -> 3842 bytes
+ .../demo/service/impl/UserArticleServiceImpl.class | Bin 0 -> 2929 bytes
+ .../target/maven-archiver/pom.properties           |   4 +
+ .../compile/default-compile/createdFiles.lst       |  32 +++
+ .../compile/default-compile/inputFiles.lst         |  31 +++
+ .../default-testCompile/createdFiles.lst           |   1 +
+ .../testCompile/default-testCompile/inputFiles.lst |   1 +
+ .../recommend-service-1.0-formal.jar.original      | Bin 0 -> 43468 bytes
+ ...-com.example.demo.CommunityApplicationTests.xml |  65 +++++
+ .../com.example.demo.CommunityApplicationTests.txt |   4 +
+ .../example/demo/CommunityApplicationTests.class   | Bin 0 -> 834 bytes
+ source/third_iteration/user-service/HELP.md        |  14 +
+ source/third_iteration/user-service/mvnw           | 286 +++++++++++++++++++++
+ source/third_iteration/user-service/mvnw.cmd       | 161 ++++++++++++
+ source/third_iteration/user-service/pom.xml        | 114 ++++++++
+ .../java/com/example/demo/UserApplication.java     |  24 ++
+ .../com/example/demo/config/MasterDataBase.java    |  85 ++++++
+ .../com/example/demo/config/SlaveDataBase.java     |  84 ++++++
+ .../java/com/example/demo/config/beanConfig.java   |  69 +++++
+ .../demo/controller/FavoriteController.java        |  59 +++++
+ .../example/demo/controller/LoginController.java   |  29 +++
+ .../demo/controller/UserInfoController.java        |  24 ++
+ .../com/example/demo/dao/master/FavoriteDao.java   |  17 ++
+ .../java/com/example/demo/dao/master/UserDao.java  |  15 ++
+ .../example/demo/dao/slave/FavoriteDaoSlave.java   |  17 ++
+ .../com/example/demo/dao/slave/UserDaoSlave.java   |  15 ++
+ .../java/com/example/demo/entity/Favorite.java     |  40 +++
+ .../main/java/com/example/demo/entity/User.java    |  38 +++
+ .../com/example/demo/service/FavouriteService.java |  15 ++
+ .../java/com/example/demo/service/UserService.java |  50 ++++
+ .../demo/service/impl/FavoriteServiceImpl.java     |  40 +++
+ .../main/java/com/example/demo/util/Encrypt.java   |  31 +++
+ .../src/main/resources/application.properties      |  25 ++
+ .../src/main/resources/application.yml             |  29 +++
+ .../example/demo/CommunityApplicationTests.java    |  16 ++
+ .../target/classes/application.properties          |  25 ++
+ .../user-service/target/classes/application.yml    |  29 +++
+ .../classes/com/example/demo/UserApplication.class | Bin 0 -> 1116 bytes
+ .../com/example/demo/config/MasterDataBase.class   | Bin 0 -> 4031 bytes
+ .../com/example/demo/config/SlaveDataBase.class    | Bin 0 -> 4032 bytes
+ .../com/example/demo/config/beanConfig.class       | Bin 0 -> 1488 bytes
+ .../demo/controller/FavoriteController.class       | Bin 0 -> 2950 bytes
+ .../example/demo/controller/LoginController.class  | Bin 0 -> 1285 bytes
+ .../demo/controller/UserInfoController.class       | Bin 0 -> 1194 bytes
+ .../com/example/demo/dao/master/FavoriteDao.class  | Bin 0 -> 676 bytes
+ .../com/example/demo/dao/master/UserDao.class      | Bin 0 -> 452 bytes
+ .../example/demo/dao/slave/FavoriteDaoSlave.class  | Bin 0 -> 685 bytes
+ .../com/example/demo/dao/slave/UserDaoSlave.class  | Bin 0 -> 461 bytes
+ .../classes/com/example/demo/entity/Favorite.class | Bin 0 -> 3720 bytes
+ .../classes/com/example/demo/entity/User.class     | Bin 0 -> 4284 bytes
+ .../example/demo/service/FavouriteService.class    | Bin 0 -> 518 bytes
+ .../com/example/demo/service/UserService.class     | Bin 0 -> 1908 bytes
+ .../demo/service/impl/FavoriteServiceImpl.class    | Bin 0 -> 2080 bytes
+ .../classes/com/example/demo/util/Encrypt.class    | Bin 0 -> 1104 bytes
+ .../target/demo-0.0.1-SNAPSHOT.jar.original        | Bin 0 -> 21203 bytes
+ .../target/maven-archiver/pom.properties           |   4 +
+ .../compile/default-compile/createdFiles.lst       |  17 ++
+ .../compile/default-compile/inputFiles.lst         |  17 ++
+ .../default-testCompile/createdFiles.lst           |   1 +
+ .../testCompile/default-testCompile/inputFiles.lst |   1 +
+ ...-com.example.demo.CommunityApplicationTests.xml |  65 +++++
+ .../com.example.demo.CommunityApplicationTests.txt |   4 +
+ .../example/demo/CommunityApplicationTests.class   | Bin 0 -> 637 bytes
+ .../third_iteration/user-service/user-service.iml  | 215 ++++++++++++++++
+ 186 files changed, 5850 insertions(+)
+ create mode 100644 source/third_iteration/Community-service/Community-service.iml
+ create mode 100644 source/third_iteration/Community-service/HELP.md
+ create mode 100644 source/third_iteration/Community-service/mvnw
+ create mode 100644 source/third_iteration/Community-service/mvnw.cmd
+ create mode 100644 source/third_iteration/Community-service/pom.xml
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/CommunityApplication.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/config/MasterDataBase.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/config/SlaveDataBase.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/config/beanConfig.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/controller/CommunityPostController.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/controller/PostContentController.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/dao/master/CommunityPostDao.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/dao/master/PostContentDao.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/dao/slave/CommunityPostDaoSlave.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/dao/slave/PostContentDaoSlave.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/entity/CommunityPost.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/entity/PostContent.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/service/CommunityPostService.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/service/PostContentService.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/service/impl/CommunityPostImpl.java
+ create mode 100644 source/third_iteration/Community-service/src/main/java/com/example/demo/service/impl/PostContentServiceImpl.java
+ create mode 100644 source/third_iteration/Community-service/src/main/resources/application.properties
+ create mode 100644 source/third_iteration/Community-service/src/main/resources/application.yml
+ create mode 100644 source/third_iteration/Community-service/src/test/java/com/example/demo/CommunityApplicationTests.java
+ create mode 100644 source/third_iteration/Community-service/target/classes/application.properties
+ create mode 100644 source/third_iteration/Community-service/target/classes/application.yml
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/CommunityApplication.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/config/MasterDataBase.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/config/SlaveDataBase.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/config/beanConfig.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/controller/CommunityPostController.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/controller/PostContentController.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/dao/master/CommunityPostDao.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/dao/master/PostContentDao.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/dao/slave/CommunityPostDaoSlave.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/dao/slave/PostContentDaoSlave.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/entity/CommunityPost.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/entity/PostContent.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/service/CommunityPostService.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/service/PostContentService.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/service/impl/CommunityPostImpl.class
+ create mode 100644 source/third_iteration/Community-service/target/classes/com/example/demo/service/impl/PostContentServiceImpl.class
+ create mode 100644 source/third_iteration/Community-service/target/community-service-1.0-formal.jar.original
+ create mode 100644 source/third_iteration/Community-service/target/maven-archiver/pom.properties
+ create mode 100644 source/third_iteration/Community-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+ create mode 100644 source/third_iteration/Community-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ create mode 100644 source/third_iteration/Community-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+ create mode 100644 source/third_iteration/Community-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+ create mode 100644 source/third_iteration/Community-service/target/surefire-reports/TEST-com.example.demo.CommunityApplicationTests.xml
+ create mode 100644 source/third_iteration/Community-service/target/surefire-reports/com.example.demo.CommunityApplicationTests.txt
+ create mode 100644 source/third_iteration/Community-service/target/test-classes/com/example/demo/CommunityApplicationTests.class
+ create mode 100644 source/third_iteration/recommend-service/HELP.md
+ create mode 100644 source/third_iteration/recommend-service/mvnw
+ create mode 100644 source/third_iteration/recommend-service/mvnw.cmd
+ create mode 100644 source/third_iteration/recommend-service/pom.xml
+ create mode 100644 source/third_iteration/recommend-service/recommend-service.iml
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/RecommendApplication.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/config/MasterDataBase.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/config/SlaveDataBase.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/config/beanConfig.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/controller/MessageBus.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/controller/RecommendArticleController.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/controller/UserWithArticleController.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/dao/ArticleDao.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/dao/master/RecommendTempDao.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/dao/master/UserArticleDao.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/dao/master/UserArticleFutureDao.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/dao/master/UserArticleFutureItemDao.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/dao/master/UserArticleFutureKnnDao.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/dao/slave/UserArticleDaoSlave.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/dao/slave/UserArticleFutureDaoSlave.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/entity/Article.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/entity/RecommendTemp.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/entity/UserArticleFuture.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/entity/UserArticleFutureItem.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/entity/UserArticleFutureKnn.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/entity/UserArticleHistory.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/service/RecommendArticle.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/service/RecommendArticleArbitraryService.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/service/UserArticleService.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/service/impl/RecommendArticleAllImpl.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/service/impl/RecommendArticleArbitraryServiceImpl.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/service/impl/RecommendArticleByDiagramImpl.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/service/impl/RecommendArticleByItemImpl.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/service/impl/RecommendArticleByKnnImpl.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/service/impl/RecommendArticleByNeighbourImpl.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/java/com/example/demo/service/impl/UserArticleServiceImpl.java
+ create mode 100644 source/third_iteration/recommend-service/src/main/resources/application.properties
+ create mode 100644 source/third_iteration/recommend-service/src/main/resources/application.yml
+ create mode 100644 source/third_iteration/recommend-service/src/test/java/com/example/demo/CommunityApplicationTests.java
+ create mode 100644 source/third_iteration/recommend-service/target/classes/application.properties
+ create mode 100644 source/third_iteration/recommend-service/target/classes/application.yml
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/RecommendApplication.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/config/MasterDataBase.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/config/SlaveDataBase.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/config/beanConfig.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/controller/MessageBus.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/controller/RecommendArticleController.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/controller/UserWithArticleController.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/dao/ArticleDao.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/dao/master/RecommendTempDao.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/dao/master/UserArticleDao.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/dao/master/UserArticleFutureDao.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/dao/master/UserArticleFutureItemDao.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/dao/master/UserArticleFutureKnnDao.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/dao/slave/UserArticleDaoSlave.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/dao/slave/UserArticleFutureDaoSlave.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/entity/Article.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/entity/RecommendTemp.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/entity/UserArticleFuture.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/entity/UserArticleFutureItem.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/entity/UserArticleFutureKnn.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/entity/UserArticleHistory.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/RecommendArticle.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/RecommendArticleArbitraryService.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/UserArticleService.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/impl/RecommendArticleAllImpl.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/impl/RecommendArticleArbitraryServiceImpl.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/impl/RecommendArticleByDiagramImpl$1.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/impl/RecommendArticleByDiagramImpl.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/impl/RecommendArticleByItemImpl.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/impl/RecommendArticleByKnnImpl.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/impl/RecommendArticleByNeighbourImpl.class
+ create mode 100644 source/third_iteration/recommend-service/target/classes/com/example/demo/service/impl/UserArticleServiceImpl.class
+ create mode 100644 source/third_iteration/recommend-service/target/maven-archiver/pom.properties
+ create mode 100644 source/third_iteration/recommend-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+ create mode 100644 source/third_iteration/recommend-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ create mode 100644 source/third_iteration/recommend-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+ create mode 100644 source/third_iteration/recommend-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+ create mode 100644 source/third_iteration/recommend-service/target/recommend-service-1.0-formal.jar.original
+ create mode 100644 source/third_iteration/recommend-service/target/surefire-reports/TEST-com.example.demo.CommunityApplicationTests.xml
+ create mode 100644 source/third_iteration/recommend-service/target/surefire-reports/com.example.demo.CommunityApplicationTests.txt
+ create mode 100644 source/third_iteration/recommend-service/target/test-classes/com/example/demo/CommunityApplicationTests.class
+ create mode 100644 source/third_iteration/user-service/HELP.md
+ create mode 100644 source/third_iteration/user-service/mvnw
+ create mode 100644 source/third_iteration/user-service/mvnw.cmd
+ create mode 100644 source/third_iteration/user-service/pom.xml
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/UserApplication.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/config/MasterDataBase.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/config/SlaveDataBase.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/config/beanConfig.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/controller/FavoriteController.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/controller/LoginController.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/controller/UserInfoController.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/dao/master/FavoriteDao.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/dao/master/UserDao.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/dao/slave/FavoriteDaoSlave.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/dao/slave/UserDaoSlave.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/entity/Favorite.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/entity/User.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/service/FavouriteService.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/service/UserService.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/service/impl/FavoriteServiceImpl.java
+ create mode 100644 source/third_iteration/user-service/src/main/java/com/example/demo/util/Encrypt.java
+ create mode 100644 source/third_iteration/user-service/src/main/resources/application.properties
+ create mode 100644 source/third_iteration/user-service/src/main/resources/application.yml
+ create mode 100644 source/third_iteration/user-service/src/test/java/com/example/demo/CommunityApplicationTests.java
+ create mode 100644 source/third_iteration/user-service/target/classes/application.properties
+ create mode 100644 source/third_iteration/user-service/target/classes/application.yml
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/UserApplication.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/config/MasterDataBase.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/config/SlaveDataBase.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/config/beanConfig.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/controller/FavoriteController.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/controller/LoginController.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/controller/UserInfoController.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/dao/master/FavoriteDao.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/dao/master/UserDao.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/dao/slave/FavoriteDaoSlave.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/dao/slave/UserDaoSlave.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/entity/Favorite.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/entity/User.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/service/FavouriteService.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/service/UserService.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/service/impl/FavoriteServiceImpl.class
+ create mode 100644 source/third_iteration/user-service/target/classes/com/example/demo/util/Encrypt.class
+ create mode 100644 source/third_iteration/user-service/target/demo-0.0.1-SNAPSHOT.jar.original
+ create mode 100644 source/third_iteration/user-service/target/maven-archiver/pom.properties
+ create mode 100644 source/third_iteration/user-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+ create mode 100644 source/third_iteration/user-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ create mode 100644 source/third_iteration/user-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+ create mode 100644 source/third_iteration/user-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+ create mode 100644 source/third_iteration/user-service/target/surefire-reports/TEST-com.example.demo.CommunityApplicationTests.xml
+ create mode 100644 source/third_iteration/user-service/target/surefire-reports/com.example.demo.CommunityApplicationTests.txt
+ create mode 100644 source/third_iteration/user-service/target/test-classes/com/example/demo/CommunityApplicationTests.class
+ create mode 100644 source/third_iteration/user-service/user-service.iml
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
