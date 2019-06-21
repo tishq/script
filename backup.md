@@ -2132,3 +2132,54 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 7f0c3ad] commit
+ 1 file changed, 57 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 06月 21日 星期五 20:00:01 CST
+java==========================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 41cba97] commit
+ 3 files changed, 248 insertions(+), 133 deletions(-)
+ create mode 100644 article_scrapy/flask_rest_api/find_id.py
+ rewrite article_scrapy/flask_rest_api/test.py (92%)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+[master 3716a43] commit
+ 8 files changed, 72 insertions(+), 102 deletions(-)
+ create mode 100644 MyApplication.zip
+ create mode 100644 MyApplication/app/src/main/java/com/example/myapplication/ArticleRecycleActivity.java
+ create mode 100644 MyApplication/app/src/main/res/layout/activity_article_recycle.xml
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
