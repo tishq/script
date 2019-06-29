@@ -16,13 +16,13 @@ sudo docker restart rabbit
 pkill frpc
 cd /home/hq/TISHQ/frp && ./auto.sh
 
-python /home/hq/TISHQ/script/es_rest.py &
-python /home/hq/TISHQ/script/kg_r.py &
-python /home/hq/TISHQ/script/kg_build_r.py &
-python /home/hq/TISHQ/script/find_id.py &
+#python3 /home/hq/TISHQ/script/es_rest.py &
+#python3 /home/hq/TISHQ/script/kg_r.py &
+#python3 /home/hq/TISHQ/script/kg_build_r.py &
+#python3 /home/hq/TISHQ/script/find_id.py &
 
 
 # start jar
-cd /home/hq/TISHQ/jar && ./auto.sh
+#cd /home/hq/TISHQ/jar && ./auto.sh
 
 
