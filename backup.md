@@ -2558,3 +2558,453 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 355d4ef] commit
+ 1 file changed, 53 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 07月 01日 星期一 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master 8a0c807] commit
+ 403 files changed, 131747 insertions(+)
+ create mode 100644 sb/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_5_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_6_5_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_5_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_google_guava_guava_14_0_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_6_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__com_twitter_chill_java_0_8_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_codec_commons_codec_1_4_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_collections_commons_collections_3_2_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_io_commons_io_2_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_lang_commons_lang_2_5_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__commons_net_commons_net_2_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__io_netty_netty_3_8_0_Final_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__io_netty_netty_all_4_0_42_Final_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_7_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__net_jpountz_lz4_lz4_1_3_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_4_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_commons_commons_math_2_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_curator_curator_client_2_4_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_curator_curator_framework_2_4_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_4_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_1_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_1_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_1_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_1_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_1_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_1_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_5_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_8_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_8_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_scala_lang_scalap_2_11_8_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_6_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml
+ create mode 100644 sb/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml
+ create mode 100644 sb/.idea/misc.xml
+ create mode 100644 sb/.idea/modules.xml
+ create mode 100644 sb/.idea/modules/sb-build.iml
+ create mode 100644 sb/.idea/modules/sb.iml
+ create mode 100644 sb/.idea/sbt.xml
+ create mode 100644 sb/.idea/scala_compiler.xml
+ create mode 100644 sb/.idea/vcs.xml
+ create mode 100644 sb/.idea/workspace.xml
+ create mode 100644 sb/build.sbt
+ create mode 100644 sb/project/build.properties
+ create mode 100644 sb/project/target/config-classes/$1f3e1c5cb0995fb15508$.class
+ create mode 100644 sb/project/target/config-classes/$1f3e1c5cb0995fb15508.cache
+ create mode 100644 sb/project/target/config-classes/$1f3e1c5cb0995fb15508.class
+ create mode 100644 sb/project/target/config-classes/$8443982f6c55320cc352$.class
+ create mode 100644 sb/project/target/config-classes/$8443982f6c55320cc352.cache
+ create mode 100644 sb/project/target/config-classes/$8443982f6c55320cc352.class
+ create mode 100644 sb/project/target/config-classes/$8ecb191244cc141bbe91$.class
+ create mode 100644 sb/project/target/config-classes/$8ecb191244cc141bbe91.cache
+ create mode 100644 sb/project/target/config-classes/$8ecb191244cc141bbe91.class
+ create mode 100644 sb/project/target/config-classes/$965955f0c4bcb1ebeea0$.class
+ create mode 100644 sb/project/target/config-classes/$965955f0c4bcb1ebeea0.cache
+ create mode 100644 sb/project/target/config-classes/$965955f0c4bcb1ebeea0.class
+ create mode 100644 sb/project/target/config-classes/$cdaf045c8f42a56fb2b5$.class
+ create mode 100644 sb/project/target/config-classes/$cdaf045c8f42a56fb2b5.cache
+ create mode 100644 sb/project/target/config-classes/$cdaf045c8f42a56fb2b5.class
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sb-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sb-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-compile-internal.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-compile.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-optional.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-plugin.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-pom.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-provided.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-runtime-internal.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-runtime.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-scala-tool.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-test-internal.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sb-build-test.xml
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css
+ create mode 100644 sb/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl
+ create mode 100644 sb/project/target/streams/$global/$global/$global/streams/out
+ create mode 100644 sb/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp
+ create mode 100644 sb/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp
+ create mode 100644 sb/project/target/streams/$global/ivyConfiguration/$global/streams/out
+ create mode 100644 sb/project/target/streams/$global/ivySbt/$global/streams/out
+ create mode 100644 sb/project/target/streams/$global/projectDescriptors/$global/streams/out
+ create mode 100644 sb/project/target/streams/$global/update/$global/streams/out
+ create mode 100644 sb/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs
+ create mode 100644 sb/project/target/streams/$global/update/$global/streams/update_cache_2.12/output
+ create mode 100644 sb/project/target/streams/compile/$global/$global/discoveredMainClasses/data
+ create mode 100644 sb/project/target/streams/compile/compile/$global/streams/out
+ create mode 100644 sb/project/target/streams/compile/compileIncremental/$global/streams/export
+ create mode 100644 sb/project/target/streams/compile/compileIncremental/$global/streams/out
+ create mode 100644 sb/project/target/streams/compile/copyResources/$global/streams/copy-resources
+ create mode 100644 sb/project/target/streams/compile/copyResources/$global/streams/out
+ create mode 100644 sb/project/target/streams/compile/dependencyClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/compile/exportedProducts/$global/streams/export
+ create mode 100644 sb/project/target/streams/compile/externalDependencyClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/compile/internalDependencyClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/compile/managedClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/compile/unmanagedClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/compile/unmanagedJars/$global/streams/export
+ create mode 100644 sb/project/target/streams/runtime/dependencyClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/runtime/exportedProducts/$global/streams/export
+ create mode 100644 sb/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/runtime/fullClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/runtime/managedClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/runtime/unmanagedClasspath/$global/streams/export
+ create mode 100644 sb/project/target/streams/runtime/unmanagedJars/$global/streams/export
+ create mode 100644 sb/src/main/scala/wc.scala
+ create mode 100644 sb/target/.history
+ create mode 100644 sb/target/scala-2.11/resolution-cache/default/sb$sbt_2.12/1.0/resolved.xml.properties
+ create mode 100644 sb/target/scala-2.11/resolution-cache/default/sb$sbt_2.12/1.0/resolved.xml.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/default/sb$sources/1.0/resolved.xml.properties
+ create mode 100644 sb/target/scala-2.11/resolution-cache/default/sb$sources/1.0/resolved.xml.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/default/sb$sources_2.12/1.0/resolved.xml.properties
+ create mode 100644 sb/target/scala-2.11/resolution-cache/default/sb$sources_2.12/1.0/resolved.xml.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/default/sb_2.11/1.0/resolved.xml.properties
+ create mode 100644 sb/target/scala-2.11/resolution-cache/default/sb_2.11/1.0/resolved.xml.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sbt_2.12-compile.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sbt_2.12-optional.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sbt_2.12-provided.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sbt_2.12-runtime.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sbt_2.12-test.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-compile-internal.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-compile.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-optional.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-plugin.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-pom.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-provided.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-runtime-internal.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-runtime.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-scala-tool.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-test-internal.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources-test.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources_2.12-compile.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources_2.12-default.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources_2.12-optional.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources_2.12-provided.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources_2.12-runtime.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb$sources_2.12-test.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-compile-internal.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-compile.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-optional.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-plugin.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-pom.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-provided.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-runtime-internal.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-runtime.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-scala-tool.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-test-internal.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/default-sb_2.11-test.xml
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/ivy-report.css
+ create mode 100644 sb/target/scala-2.11/resolution-cache/reports/ivy-report.xsl
+ create mode 100644 sb/target/scala-2.13/resolution-cache/default/sb$sbt_2.12/0.1/resolved.xml.properties
+ create mode 100644 sb/target/scala-2.13/resolution-cache/default/sb$sbt_2.12/0.1/resolved.xml.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/default/sb$sources/0.1/resolved.xml.properties
+ create mode 100644 sb/target/scala-2.13/resolution-cache/default/sb$sources/0.1/resolved.xml.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/default/sb$sources_2.12/0.1/resolved.xml.properties
+ create mode 100644 sb/target/scala-2.13/resolution-cache/default/sb$sources_2.12/0.1/resolved.xml.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/default/sb_2.13/0.1/resolved.xml.properties
+ create mode 100644 sb/target/scala-2.13/resolution-cache/default/sb_2.13/0.1/resolved.xml.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sbt_2.12-compile.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sbt_2.12-optional.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sbt_2.12-provided.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sbt_2.12-runtime.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sbt_2.12-test.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-compile-internal.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-compile.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-optional.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-plugin.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-pom.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-provided.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-runtime-internal.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-runtime.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-scala-tool.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-test-internal.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources-test.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources_2.12-compile.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources_2.12-default.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources_2.12-optional.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources_2.12-provided.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources_2.12-runtime.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb$sources_2.12-test.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-compile-internal.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-compile.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-optional.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-plugin.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-pom.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-provided.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-runtime-internal.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-runtime.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-scala-tool.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-test-internal.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/default-sb_2.13-test.xml
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/ivy-report.css
+ create mode 100644 sb/target/scala-2.13/resolution-cache/reports/ivy-report.xsl
+ create mode 100644 sb/target/streams/$global/$global/dumpStructure/$global/streams/out
+ create mode 100644 sb/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp
+ create mode 100644 sb/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp
+ create mode 100644 sb/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/input_dsp
+ create mode 100644 sb/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp
+ create mode 100644 sb/target/streams/$global/ivyConfiguration/$global/streams/out
+ create mode 100644 sb/target/streams/$global/ivySbt/$global/streams/out
+ create mode 100644 sb/target/streams/$global/projectDescriptors/$global/streams/out
+ create mode 100644 sb/target/streams/$global/update/$global/streams/out
+ create mode 100644 sb/target/streams/$global/update/$global/streams/update_cache_2.11/inputs
+ create mode 100644 sb/target/streams/$global/update/$global/streams/update_cache_2.11/output
+ create mode 100644 sb/target/streams/$global/update/$global/streams/update_cache_2.13/inputs
+ create mode 100644 sb/target/streams/$global/update/$global/streams/update_cache_2.13/output
+ create mode 100644 sb/target/streams/$global/updateClassifiers/$global/streams/out
+ create mode 100644 sb/target/streams/$global/updateSbtClassifiers/$global/streams/out
+ create mode 100644 sb/target/streams/compile/externalDependencyClasspath/$global/streams/export
+ create mode 100644 sb/target/streams/compile/managedClasspath/$global/streams/export
+ create mode 100644 sb/target/streams/compile/unmanagedClasspath/$global/streams/export
+ create mode 100644 sb/target/streams/compile/unmanagedJars/$global/streams/export
+ create mode 100644 sb/target/streams/runtime/externalDependencyClasspath/$global/streams/export
+ create mode 100644 sb/target/streams/runtime/managedClasspath/$global/streams/export
+ create mode 100644 sb/target/streams/runtime/unmanagedClasspath/$global/streams/export
+ create mode 100644 sb/target/streams/runtime/unmanagedJars/$global/streams/export
+ create mode 100644 sb/target/streams/test/externalDependencyClasspath/$global/streams/export
+ create mode 100644 sb/target/streams/test/managedClasspath/$global/streams/export
+ create mode 100644 sb/target/streams/test/unmanagedClasspath/$global/streams/export
+ create mode 100644 sb/target/streams/test/unmanagedJars/$global/streams/export
+ create mode 100644 sbt/.idea/misc.xml
+ create mode 100644 sbt/.idea/modules.xml
+ create mode 100644 sbt/.idea/modules/sbt.iml
+ create mode 100644 sbt/.idea/sbt.xml
+ create mode 100644 sbt/.idea/vcs.xml
+ create mode 100644 sbt/.idea/workspace.xml
+ create mode 100644 sbt/build.sbt
+ create mode 100644 sbt/project/build.properties
+ create mode 100644 scala/.idea/misc.xml
+ create mode 100644 scala/.idea/modules.xml
+ create mode 100644 scala/.idea/modules/scala.iml
+ create mode 100644 scala/.idea/sbt.xml
+ create mode 100644 scala/.idea/vcs.xml
+ create mode 100644 scala/.idea/workspace.xml
+ create mode 100644 scala/build.sbt
+ create mode 100644 scala/project/build.properties
+ create mode 100644 scala/project/target/config-classes/$7defa662ac226e8df38b$$anonfun$$sbtdef$1.class
+ create mode 100644 scala/project/target/config-classes/$7defa662ac226e8df38b$$anonfun$$sbtdef$2$$anonfun$apply$1.class
+ create mode 100644 scala/project/target/config-classes/$7defa662ac226e8df38b$$anonfun$$sbtdef$2.class
+ create mode 100644 scala/project/target/config-classes/$7defa662ac226e8df38b$$anonfun$$sbtdef$3.class
+ create mode 100644 scala/project/target/config-classes/$7defa662ac226e8df38b$$anonfun$$sbtdef$4.class
+ create mode 100644 scala/project/target/config-classes/$7defa662ac226e8df38b$.class
+ create mode 100644 scala/project/target/config-classes/$7defa662ac226e8df38b.cache
+ create mode 100644 scala/project/target/config-classes/$7defa662ac226e8df38b.class
+ create mode 100644 scala/project/target/config-classes/$d7c39bf0ead72a87314d$$anonfun$$sbtdef$1.class
+ create mode 100644 scala/project/target/config-classes/$d7c39bf0ead72a87314d$.class
+ create mode 100644 scala/project/target/config-classes/$d7c39bf0ead72a87314d.cache
+ create mode 100644 scala/project/target/config-classes/$d7c39bf0ead72a87314d.class
+ create mode 100644 scala/project/target/config-classes/$f0b1ada39f899c00ee59$$anonfun$$sbtdef$1.class
+ create mode 100644 scala/project/target/config-classes/$f0b1ada39f899c00ee59$.class
+ create mode 100644 scala/project/target/config-classes/$f0b1ada39f899c00ee59.cache
+ create mode 100644 scala/project/target/config-classes/$f0b1ada39f899c00ee59.class
+ create mode 100644 scala/project/target/config-classes/$fa226b752946542f3296$$anonfun$$sbtdef$1.class
+ create mode 100644 scala/project/target/config-classes/$fa226b752946542f3296$.class
+ create mode 100644 scala/project/target/config-classes/$fa226b752946542f3296.cache
+ create mode 100644 scala/project/target/config-classes/$fa226b752946542f3296.class
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/default/scala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/default/scala-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-compile-internal.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-compile.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-docs.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-optional.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-plugin.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-pom.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-provided.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-runtime-internal.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-runtime.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-scala-tool.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-sources.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-test-internal.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-scala-build-test.xml
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.css
+ create mode 100644 scala/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/ivy-report.xsl
+ create mode 100644 scala/project/target/streams/$global/$global/$global/streams/out
+ create mode 100644 scala/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp
+ create mode 100644 scala/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp
+ create mode 100644 scala/project/target/streams/$global/ivyConfiguration/$global/streams/out
+ create mode 100644 scala/project/target/streams/$global/ivySbt/$global/streams/out
+ create mode 100644 scala/project/target/streams/$global/projectDescriptors/$global/streams/out
+ create mode 100644 scala/project/target/streams/$global/update/$global/streams/out
+ create mode 100644 scala/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs
+ create mode 100644 scala/project/target/streams/$global/update/$global/streams/update_cache_2.10/output
+ create mode 100644 scala/project/target/streams/$global/updateSbtClassifiers/$global/streams/out
+ create mode 100644 scala/project/target/streams/compile/$global/$global/discoveredMainClasses/data
+ create mode 100644 scala/project/target/streams/compile/compile/$global/streams/out
+ create mode 100644 scala/project/target/streams/compile/compileIncremental/$global/streams/export
+ create mode 100644 scala/project/target/streams/compile/compileIncremental/$global/streams/out
+ create mode 100644 scala/project/target/streams/compile/copyResources/$global/streams/copy-resources
+ create mode 100644 scala/project/target/streams/compile/copyResources/$global/streams/out
+ create mode 100644 scala/project/target/streams/compile/dependencyClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/compile/exportedProducts/$global/streams/export
+ create mode 100644 scala/project/target/streams/compile/externalDependencyClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/compile/internalDependencyClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/compile/managedClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/compile/unmanagedClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/compile/unmanagedJars/$global/streams/export
+ create mode 100644 scala/project/target/streams/runtime/dependencyClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/runtime/exportedProducts/$global/streams/export
+ create mode 100644 scala/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/runtime/fullClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/runtime/managedClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/runtime/unmanagedClasspath/$global/streams/export
+ create mode 100644 scala/project/target/streams/runtime/unmanagedJars/$global/streams/export
+ create mode 100644 scala/target/.history
+ create mode 100644 scala/target/scala-2.11/resolution-cache/default/scala_2.11/0.1/resolved.xml.properties
+ create mode 100644 scala/target/scala-2.11/resolution-cache/default/scala_2.11/0.1/resolved.xml.xml
+ create mode 100644 scala/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp
+ create mode 100644 scala/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp
+ create mode 100644 scala/target/streams/$global/ivyConfiguration/$global/streams/out
+ create mode 100644 scala/target/streams/$global/ivySbt/$global/streams/out
+ create mode 100644 scala/target/streams/$global/projectDescriptors/$global/streams/out
+ create mode 100644 scala/target/streams/$global/update/$global/streams/out
+ create mode 100644 scala/target/streams/compile/unmanagedClasspath/$global/streams/export
+ create mode 100644 scala/target/streams/compile/unmanagedJars/$global/streams/export
+ create mode 100644 scala/target/streams/runtime/unmanagedClasspath/$global/streams/export
+ create mode 100644 scala/target/streams/runtime/unmanagedJars/$global/streams/export
+ create mode 100644 scala/target/streams/test/unmanagedClasspath/$global/streams/export
+ create mode 100644 scala/target/streams/test/unmanagedJars/$global/streams/export
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+[master ab20d94] commit
+ 1 file changed, 21 insertions(+), 143 deletions(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
