@@ -9,6 +9,9 @@ cd /home/hq/TISHQ/PycharmProjects && ./git.sh
 echo "android======================================================="
 cd /home/hq/TISHQ/AndroidStudioProjects && ./git.sh
 
+echo "c============================================================"
+cd /home/hq/TISHQ/c && ./git.sh
+
 echo "md============================================================"
 cd /home/hq/TISHQ/md && ./git.sh
 
