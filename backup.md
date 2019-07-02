@@ -3014,3 +3014,67 @@ script========================================================
 finish========================================================
 finish========================================================
 finish========================================================
+2019年 07月 02日 星期二 20:00:01 CST
+java==========================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 251dcc7] commit
+ 15 files changed, 411 insertions(+)
+ create mode 100644 minist/.idea/minist.iml
+ create mode 100644 minist/.idea/misc.xml
+ create mode 100644 minist/.idea/modules.xml
+ create mode 100644 minist/.idea/vcs.xml
+ create mode 100644 minist/.idea/workspace.xml
+ create mode 100644 minist/MNIST_data/t10k-images-idx3-ubyte.gz
+ create mode 100644 minist/MNIST_data/t10k-labels-idx1-ubyte.gz
+ create mode 100644 minist/MNIST_data/train-images-idx3-ubyte.gz
+ create mode 100644 minist/MNIST_data/train-labels-idx1-ubyte.gz
+ create mode 100644 minist/log/521model.ckpt.data-00000-of-00001
+ create mode 100644 minist/log/521model.ckpt.index
+ create mode 100644 minist/log/521model.ckpt.meta
+ create mode 100644 minist/log/checkpoint
+ create mode 100644 minist/minist_cnn.py
+ create mode 100644 minist/minist_data.py
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+c============================================================
+已经是最新的。
+[master 5c5dc38] commit
+ 3 files changed, 2 insertions(+), 2 deletions(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+[master 4d898b4] commit
+ 4 files changed, 2 insertions(+)
+ create mode 100644 imgs/2019-07-02_002.png
+ create mode 100644 imgs/2019-07-02_003.png
+ create mode 100644 imgs/2019-07-02_004.png
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
