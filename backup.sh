@@ -1,13 +1,13 @@
 #!/bin/bash
 date
 echo "java=========================================================="
-cd /home/hq/TISHQ/IdeaProjects && ./git.sh
+cd /home/hq/IdeaProjects && ./git.sh
 
 echo "python========================================================"
-cd /home/hq/TISHQ/PycharmProjects && ./git.sh
+cd /home/hq/PycharmProjects && ./git.sh
 
 echo "android======================================================="
-cd /home/hq/TISHQ/AndroidStudioProjects && ./git.sh
+cd /home/hq/AndroidStudioProjects && ./git.sh
 
 echo "c============================================================"
 cd /home/hq/TISHQ/c && ./git.sh
