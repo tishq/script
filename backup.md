@@ -3404,3 +3404,73 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 7d92bbd] commit
+ 1 file changed, 56 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 07月 10日 星期三 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master ddd7662] commit
+ 20 files changed, 269 insertions(+), 293 deletions(-)
+ create mode 100644 mr/out/production/scala/META-INF/scala.kotlin_module
+ create mode 100644 mr/out/production/scala/com/ex/scala/Hello$.class
+ create mode 100644 mr/out/production/scala/com/ex/scala/Hello.class
+ create mode 100644 mr/out/test/scala/META-INF/scala.kotlin_module
+ create mode 100644 mr/out/test/scala/Test$.class
+ create mode 100644 mr/out/test/scala/Test.class
+ create mode 100644 mr/scala/pom.xml
+ create mode 100644 mr/scala/scala.iml
+ create mode 100644 mr/scala/src/main/scala/com/ex/scala/Hello.scala
+ create mode 100644 mr/scala/src/test/Test.scala
+ create mode 100644 mr/scala01/pom.xml
+ create mode 100644 mr/scala01/scala01.iml
+ create mode 100644 mr/scala01/src/main/scala/Hello.scala
+ create mode 100644 mr/untitled/src/Hello.scala
+ create mode 100644 mr/untitled/src/Hello.scala___jb_tmp___
+ create mode 100644 mr/untitled/untitled.iml
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+c============================================================
+已经是最新的。
+[master 99e59ab] commit
+ 4 files changed, 23 insertions(+), 15 deletions(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
