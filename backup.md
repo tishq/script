@@ -3528,3 +3528,68 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 809c0cc] commit
+ 1 file changed, 54 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 07月 12日 星期五 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master e0b6b71] commit
+ 19 files changed, 753 insertions(+), 204 deletions(-)
+ rewrite springboot_login/springboot.log (66%)
+ create mode 100644 springboot_login/springboot.log.2019-06-04.0.gz
+ rewrite springboot_login/target/classes/cn/tishq/springboot_login/bean/Dog.class (91%)
+ rewrite springboot_login/target/classes/cn/tishq/springboot_login/bean/Person.class (80%)
+ rewrite springboot_login/target/classes/cn/tishq/springboot_login/entity/Article.class (92%)
+ rewrite springboot_login/target/classes/cn/tishq/springboot_login/entity/User.class (96%)
+ rewrite springboot_login/target/test-classes/cn/tishq/demo/DemoApplicationTests.class (77%)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 7c7f8fe] commit
+ 5 files changed, 439 insertions(+), 163 deletions(-)
+ create mode 100644 article_scrapy/flask_rest_api/BIFunction.py
+ create mode 100644 article_scrapy/flask_rest_api/testF.py
+ create mode 100644 article_scrapy/flask_rest_api/testPost.py
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+c============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+[master ea96098] commit
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ rename 19-07/08-.md => "19-07/11-\350\275\257\344\273\266\344\275\223\347\263\273\347\273\223\346\236\204\346\212\245\345\221\212.md" (100%)
+ create mode 100644 "19-07/12-\347\273\217\346\265\216\345\255\246\350\256\272\346\226\207.md"
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+[master cedc125] commit
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 "docs/third_iteration/\344\275\223\347\263\273\347\273\223\346\236\204UML-\345\244\247\344\270\211\344\270\213.vsdx"
+ create mode 100644 "docs/third_iteration/\344\275\223\347\263\273\347\273\223\346\236\204\350\256\276\350\256\241\346\212\245\345\221\212-IT\344\270\226\347\225\214.doc"
+ create mode 100644 "docs/third_iteration/\351\234\200\346\261\202\350\247\204\346\240\274\350\257\264\346\230\216\344\271\246.doc"
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
