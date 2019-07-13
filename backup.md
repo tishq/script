@@ -3593,3 +3593,96 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 0e41c02] commit
+ 1 file changed, 65 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 07月 13日 星期六 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master 0b359ae] commit
+ 1 file changed, 4 insertions(+), 19 deletions(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 21b3a33] commit
+ 5 files changed, 285 insertions(+), 167 deletions(-)
+ create mode 100644 article_scrapy/flask_rest_api/aa.py
+ create mode 100644 article_scrapy/flask_rest_api/templates/index.html
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+[master 50d13d3] commit
+ 41 files changed, 778 insertions(+)
+ create mode 100644 Haijiao/.gitignore
+ create mode 100644 Haijiao/.idea/encodings.xml
+ create mode 100644 Haijiao/.idea/gradle.xml
+ create mode 100644 Haijiao/.idea/misc.xml
+ create mode 100644 Haijiao/.idea/runConfigurations.xml
+ create mode 100644 Haijiao/.idea/vcs.xml
+ create mode 100644 Haijiao/app/.gitignore
+ create mode 100644 Haijiao/app/build.gradle
+ create mode 100644 Haijiao/app/proguard-rules.pro
+ create mode 100644 Haijiao/app/src/androidTest/java/com/example/haijiao/ExampleInstrumentedTest.java
+ create mode 100644 Haijiao/app/src/main/AndroidManifest.xml
+ create mode 100644 Haijiao/app/src/main/java/com/example/haijiao/MainActivity.java
+ create mode 100644 Haijiao/app/src/main/java/com/example/haijiao/WebActivity.java
+ create mode 100644 Haijiao/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+ create mode 100644 Haijiao/app/src/main/res/drawable/aa.png
+ create mode 100644 Haijiao/app/src/main/res/drawable/ic_launcher_background.xml
+ create mode 100644 Haijiao/app/src/main/res/layout/activity_main.xml
+ create mode 100644 Haijiao/app/src/main/res/layout/activity_web.xml
+ create mode 100644 Haijiao/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+ create mode 100644 Haijiao/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+ create mode 100644 Haijiao/app/src/main/res/mipmap-hdpi/ic_launcher.png
+ create mode 100644 Haijiao/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+ create mode 100644 Haijiao/app/src/main/res/mipmap-mdpi/ic_launcher.png
+ create mode 100644 Haijiao/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+ create mode 100644 Haijiao/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+ create mode 100644 Haijiao/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+ create mode 100644 Haijiao/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+ create mode 100644 Haijiao/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+ create mode 100644 Haijiao/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+ create mode 100644 Haijiao/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+ create mode 100644 Haijiao/app/src/main/res/values/colors.xml
+ create mode 100644 Haijiao/app/src/main/res/values/strings.xml
+ create mode 100644 Haijiao/app/src/main/res/values/styles.xml
+ create mode 100644 Haijiao/app/src/test/java/com/example/haijiao/ExampleUnitTest.java
+ create mode 100644 Haijiao/build.gradle
+ create mode 100644 Haijiao/gradle.properties
+ create mode 100644 Haijiao/gradle/wrapper/gradle-wrapper.jar
+ create mode 100644 Haijiao/gradle/wrapper/gradle-wrapper.properties
+ create mode 100755 Haijiao/gradlew
+ create mode 100644 Haijiao/gradlew.bat
+ create mode 100644 Haijiao/settings.gradle
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+c============================================================
+已经是最新的。
+[master 363cba0] commit
+ 5 files changed, 20 insertions(+), 7 deletions(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
