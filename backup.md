@@ -3742,3 +3742,296 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master a685bec] commit
+ 1 file changed, 50 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 07月 15日 星期一 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master d4f502f] commit
+ 243 files changed, 929910 insertions(+), 191 deletions(-)
+ create mode 100644 mr/.idea/libraries/Maven__antlr_antlr_2_7_7.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_chuusai_shapeless_2_11_2_3_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_4_0_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_7.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_7_9.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_7_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_github_fommil_netlib_core_1_1_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_github_luben_zstd_jni_1_3_2_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_github_rwl_jtransforms_2_4_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_0_3_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_jolbox_bonecp_0_8_0_RELEASE.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_8.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_twitter_chill_2_11_0_9_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_twitter_chill_java_0_9_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_twitter_parquet_hadoop_bundle_1_6_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_univocity_univocity_parsers_2_7_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__com_vlkan_flatbuffers_1_2_0_3f79e055.xml
+ create mode 100644 mr/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml
+ create mode 100644 mr/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml
+ create mode 100644 mr/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml
+ create mode 100644 mr/.idea/libraries/Maven__io_airlift_aircompressor_0_10.xml
+ create mode 100644 mr/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__io_dropwizard_metrics_metrics_graphite_3_1_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_3_1_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__io_netty_netty_3_9_9_Final.xml
+ create mode 100644 mr/.idea/libraries/Maven__io_netty_netty_all_4_1_17_Final.xml
+ create mode 100644 mr/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__javax_jdo_jdo_api_3_0_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__javax_transaction_jta_1_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml
+ create mode 100644 mr/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__javolution_javolution_5_5_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__joda_time_joda_time_2_9_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__log4j_apache_log4j_extras_1_2_17.xml
+ create mode 100644 mr/.idea/libraries/Maven__net_hydromatic_eigenbase_properties_1_1_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml
+ create mode 100644 mr/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__net_sf_py4j_py4j_0_10_7.xml
+ create mode 100644 mr/.idea/libraries/Maven__net_sourceforge_f2j_arpack_combined_all_0_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_antlr_ST4_4_0_4.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_arrow_arrow_format_0_10_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_arrow_arrow_memory_0_10_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_arrow_arrow_vector_0_10_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_avro_avro_1_8_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_8_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_avro_avro_mapred_hadoop2_1_8_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_calcite_calcite_avatica_1_2_0_incubating.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_calcite_calcite_core_1_2_0_incubating.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_calcite_calcite_linq4j_1_2_0_incubating.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_commons_commons_compress_1_8_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_curator_curator_client_2_6_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_curator_curator_framework_2_6_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_6_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_derby_derby_10_12_1_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_6_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_orc_orc_core_nohive_1_5_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_orc_orc_mapreduce_nohive_1_5_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_orc_orc_shims_1_5_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_parquet_parquet_column_1_10_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_parquet_parquet_common_1_10_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_parquet_parquet_encoding_1_10_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_parquet_parquet_format_2_4_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_parquet_parquet_hadoop_1_10_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_parquet_parquet_jackson_1_10_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_catalyst_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_graphx_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_hive_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_kvstore_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_mllib_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_mllib_local_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_sketch_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_sql_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_streaming_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_tags_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_2_4_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_thrift_libfb303_0_9_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_apache_xbean_xbean_asm6_shaded_4_8.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_codehaus_janino_commons_compiler_3_0_9.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_codehaus_janino_janino_3_0_9.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_datanucleus_datanucleus_api_jdo_3_2_6.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_datanucleus_datanucleus_core_3_2_10.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_datanucleus_datanucleus_rdbms_3_2_9.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_htrace_htrace_core_3_0_4.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_iq80_snappy_snappy_0_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_jblas_jblas_1_2_4.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_jodd_jodd_core_3_5_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_json4s_json4s_ast_2_11_3_5_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_json4s_json4s_core_2_11_3_5_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_json4s_json4s_jackson_2_11_3_5_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_json4s_json4s_scalap_2_11_3_5_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_lz4_lz4_java_1_4_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_objenesis_objenesis_2_5_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_7_45.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_roaringbitmap_shims_0_7_45.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_1_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_6.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_12.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_8.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_scalanlp_breeze_2_11_0_13_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_scalanlp_breeze_macros_2_11_0_13_2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_16.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_16.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_spark_project_hive_hive_exec_1_2_1_spark2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_spark_project_hive_hive_metastore_1_2_1_spark2.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_spark_project_spark_unused_1_0_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_spire_math_spire_2_11_0_13_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_spire_math_spire_macros_2_11_0_13_0.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_tukaani_xz_1_5.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_typelevel_machinist_2_11_0_6_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_typelevel_macro_compat_2_11_1_1_1.xml
+ create mode 100644 mr/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_3.xml
+ create mode 100644 mr/.idea/libraries/Maven__oro_oro_2_0_8.xml
+ create mode 100644 mr/.idea/libraries/Maven__stax_stax_api_1_0_1.xml
+ create mode 100644 mr/spark/data/hello.txt
+ create mode 100644 mr/spark/data/ml-100k/README
+ create mode 100755 mr/spark/data/ml-100k/allbut.pl
+ create mode 100755 mr/spark/data/ml-100k/mku.sh
+ create mode 100644 mr/spark/data/ml-100k/u.data
+ create mode 100644 mr/spark/data/ml-100k/u.genre
+ create mode 100644 mr/spark/data/ml-100k/u.info
+ create mode 100644 mr/spark/data/ml-100k/u.item
+ create mode 100644 mr/spark/data/ml-100k/u.occupation
+ create mode 100644 mr/spark/data/ml-100k/u.user
+ create mode 100644 mr/spark/data/ml-100k/u1.base
+ create mode 100644 mr/spark/data/ml-100k/u1.test
+ create mode 100644 mr/spark/data/ml-100k/u2.base
+ create mode 100644 mr/spark/data/ml-100k/u2.test
+ create mode 100644 mr/spark/data/ml-100k/u3.base
+ create mode 100644 mr/spark/data/ml-100k/u3.test
+ create mode 100644 mr/spark/data/ml-100k/u4.base
+ create mode 100644 mr/spark/data/ml-100k/u4.test
+ create mode 100644 mr/spark/data/ml-100k/u5.base
+ create mode 100644 mr/spark/data/ml-100k/u5.test
+ create mode 100644 mr/spark/data/ml-100k/ua.base
+ create mode 100644 mr/spark/data/ml-100k/ua.test
+ create mode 100644 mr/spark/data/ml-100k/ub.base
+ create mode 100644 mr/spark/data/ml-100k/ub.test
+ create mode 100644 mr/spark/data/ml-latest-small/README.txt
+ create mode 100644 mr/spark/data/ml-latest-small/links.csv
+ create mode 100644 mr/spark/data/ml-latest-small/movies.csv
+ create mode 100644 mr/spark/data/ml-latest-small/ratings.csv
+ create mode 100644 mr/spark/data/ml-latest-small/tags.csv
+ create mode 100644 mr/spark/pom.xml
+ create mode 100644 mr/spark/spark.iml
+ create mode 100644 mr/spark/src/main/spark/Hello.scala
+ create mode 100644 mr/spark/src/main/spark/Movies.scala
+ create mode 100644 mr/spark/src/main/spark/Wordcont.scala
+ create mode 100644 mr/spark/target/classes/Hello$.class
+ create mode 100644 mr/spark/target/classes/Hello.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$1.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$10.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$11.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$12.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$13.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$14$$anonfun$15.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$14$$anonfun$16.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$14.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$17.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$18.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$19$$anonfun$20.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$19.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$2.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$3.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$4.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$5.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$6.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$7.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$8.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$9.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$main$1.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$main$2.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$main$3.class
+ create mode 100644 mr/spark/target/classes/Movies$$anonfun$main$4.class
+ create mode 100644 mr/spark/target/classes/Movies$.class
+ create mode 100644 mr/spark/target/classes/Movies.class
+ create mode 100644 mr/spark/target/classes/Wordcount$$anonfun$1.class
+ create mode 100644 mr/spark/target/classes/Wordcount$$anonfun$2.class
+ create mode 100644 mr/spark/target/classes/Wordcount$$anonfun$3.class
+ create mode 100644 mr/spark/target/classes/Wordcount$$anonfun$4.class
+ create mode 100644 mr/spark/target/classes/Wordcount$$anonfun$5.class
+ create mode 100644 mr/spark/target/classes/Wordcount$.class
+ create mode 100644 mr/spark/target/classes/Wordcount.class
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+c============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+[master 52bc6fd] commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 19-07/15-.md
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
