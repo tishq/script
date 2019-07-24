@@ -4092,3 +4092,54 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 938a2b3] commit
+ 1 file changed, 57 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 07月 24日 星期三 20:00:01 CST
+java==========================================================
+[master 48ae1cb] commit
+ 13 files changed, 265 insertions(+), 233 deletions(-)
+ delete mode 100644 mr/ReduceJoin/join/out/._SUCCESS.crc
+ delete mode 100644 mr/ReduceJoin/join/out/.part-r-00000.crc
+ delete mode 100644 mr/ReduceJoin/join/out/_SUCCESS
+ delete mode 100644 mr/ReduceJoin/join/out/part-r-00000
+ create mode 100644 mr/WordCount/data/hello.txt
+ create mode 100644 mr/WordCount/target/classes/log4j.properties
+ create mode 100644 mr/WordCount/target/classes/wordcount/WordcountCombiner.class
+ create mode 100644 mr/WordCount/target/classes/wordcount/WordcountDriver.class
+ create mode 100644 mr/WordCount/target/classes/wordcount/WordcountMapper.class
+ create mode 100644 mr/WordCount/target/classes/wordcount/WordcountReducer.class
+python========================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+android=======================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+c============================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+md============================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+algorithm=====================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+junior_project================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+script========================================================
