@@ -4143,3 +4143,399 @@ junior_project================================================
 
 无文件要提交，干净的工作区
 script========================================================
+[master 4587c58] commit
+ 1 file changed, 51 insertions(+)
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 07月 26日 星期五 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master 157d012] commit
+ 11 files changed, 198 insertions(+), 90 deletions(-)
+ create mode 100644 mr/javaLearn/javaLearn.iml
+ create mode 100644 mr/javaLearn/pom.xml
+ create mode 100644 mr/javaLearn/src/main/java/com/ex/java/Rucursion.java
+ create mode 100644 mr/javaLearn/target/classes/com/ex/java/Rucursion.class
+ create mode 100644 mr/out/production/scala/com/ex/scala/Recursion$.class
+ create mode 100644 mr/out/production/scala/com/ex/scala/Recursion.class
+ create mode 100644 mr/scala/src/main/scala/com/ex/scala/Recursion.scala
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 60c3d15] commit
+ 336 files changed, 106679 insertions(+)
+ create mode 100644 suanfa/.idea/misc.xml
+ create mode 100644 suanfa/.idea/modules.xml
+ create mode 100644 suanfa/.idea/suanfa.iml
+ create mode 100644 suanfa/.idea/vcs.xml
+ create mode 100644 suanfa/.idea/workspace.xml
+ create mode 100644 suanfa/day01/recursion.py
+ create mode 100644 suanfa/venv/bin/activate
+ create mode 100644 suanfa/venv/bin/activate.csh
+ create mode 100644 suanfa/venv/bin/activate.fish
+ create mode 100755 suanfa/venv/bin/easy_install
+ create mode 100755 suanfa/venv/bin/easy_install-3.6
+ create mode 100755 suanfa/venv/bin/pip
+ create mode 100755 suanfa/venv/bin/pip3
+ create mode 100755 suanfa/venv/bin/pip3.6
+ create mode 100755 suanfa/venv/bin/python
+ create mode 100755 suanfa/venv/bin/python3
+ create mode 100755 suanfa/venv/bin/python3.6
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/easy-install.pth
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/PKG-INFO
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/SOURCES.txt
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/dependency_links.txt
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/entry_points.txt
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/not-zip-safe
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/EGG-INFO/top_level.txt
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/__main__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/build_env.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cache.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/autocompletion.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/base_command.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/cmdoptions.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/main_parser.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/parser.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/cli/status_codes.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/check.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/completion.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/configuration.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/download.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/freeze.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/hash.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/help.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/install.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/list.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/search.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/show.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/uninstall.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/commands/wheel.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/configuration.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/download.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/exceptions.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/index.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/locations.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/candidate.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/format_control.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/index.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/models/link.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/check.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/freeze.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/operations/prepare.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/pep425tags.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/pyproject.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/constructors.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_file.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_install.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_set.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_tracker.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/req/req_uninstall.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/resolve.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/appdirs.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/compat.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/deprecation.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/encoding.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/filesystem.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/glibc.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/hashes.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/logging.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/misc.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/models.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/outdated.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/packaging.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/setuptools_build.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/temp_dir.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/typing.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/utils/ui.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/bazaar.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/git.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/mercurial.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/vcs/subversion.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_internal/wheel.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/appdirs.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/adapter.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/cache.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/compat.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/controller.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/serialize.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/__main__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/cacert.pem
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/certifi/core.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/big5freq.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/big5prober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/chardistribution.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/charsetgroupprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/charsetprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cli/chardetect.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/codingstatemachine.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/compat.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/cp949prober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/enums.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/escprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/escsm.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/eucjpprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euckrfreq.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euckrprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euctwfreq.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/euctwprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/gb2312freq.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/gb2312prober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/hebrewprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/jisfreq.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/jpcntx.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langbulgarianmodel.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langcyrillicmodel.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langgreekmodel.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langhebrewmodel.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langhungarianmodel.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langthaimodel.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/langturkishmodel.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/latin1prober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcharsetprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcsgroupprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/mbcssm.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/sbcharsetprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/sbcsgroupprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/sjisprober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/universaldetector.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/utf8prober.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/chardet/version.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/ansi.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/ansitowin32.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/initialise.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/win32.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/colorama/winterm.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/misc.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/compat.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/database.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/index.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/locators.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/manifest.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/markers.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/metadata.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/resources.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/scripts.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/t32.exe
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/t64.exe
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/util.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/version.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/w32.exe
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/w64.exe
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distlib/wheel.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/distro.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_inputstream.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_trie/py.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/_utils.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/constants.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/base.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/lint.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/html5parser.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/serializer.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/codec.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/compat.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/core.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/idnadata.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/intranges.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/package_data.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/idna/uts46data.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/ipaddress.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/linklockfile.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/_version.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/exceptions.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/msgpack/fallback.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/__about__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/_compat.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/_structures.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/markers.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/requirements.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/specifiers.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/utils.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/packaging/version.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/_in_process.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/build.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/check.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/colorlog.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/compat.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/envbuild.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pep517/wrappers.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pkg_resources/py31compat.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/bar.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/counter.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/helpers.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/progress/spinner.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pyparsing.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/core.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/parser.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/test.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/utils.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/pytoml/writer.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/__version__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/_internal_utils.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/adapters.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/api.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/auth.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/certs.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/compat.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/cookies.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/exceptions.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/help.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/hooks.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/models.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/packages.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/sessions.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/status_codes.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/structures.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/requests/utils.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/retrying.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/six.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/_collections.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/connection.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/connectionpool.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_appengine_environ.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/appengine.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/ntlmpool.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/pyopenssl.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/securetransport.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/contrib/socks.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/exceptions.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/fields.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/filepost.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/backports/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/backports/makefile.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/six.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/poolmanager.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/request.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/response.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/connection.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/queue.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/request.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/response.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/retry.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/ssl_.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/timeout.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/url.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/urllib3/util/wait.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/__init__.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/labels.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/mklabels.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/tests.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg
+ create mode 100644 suanfa/venv/lib/python3.6/site-packages/setuptools.pth
+ create mode 120000 suanfa/venv/lib64
+ create mode 100644 suanfa/venv/pyvenv.cfg
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+c============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
