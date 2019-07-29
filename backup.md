@@ -4539,3 +4539,71 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 3677ed0] commit
+ 1 file changed, 396 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 07月 29日 星期一 20:00:01 CST
+java==========================================================
+已经是最新的。
+[master 7c54814] commit
+ 1 file changed, 23 insertions(+), 92 deletions(-)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+[master 5998b62] commit
+ 15 files changed, 61 insertions(+), 32 deletions(-)
+ create mode 100644 Algorithm/dateStructure/day01.py
+ rename Algorithm/{ => exercise01}/10.py (100%)
+ rename Algorithm/{ => exercise01}/11.py (100%)
+ rename Algorithm/{ => exercise01}/12.py (100%)
+ rename Algorithm/{ => exercise01}/13.py (100%)
+ rename Algorithm/{ => exercise01}/14.py (100%)
+ rename Algorithm/{ => exercise01}/15.py (100%)
+ rename Algorithm/{ => exercise01}/16.py (100%)
+ rename Algorithm/{ => exercise01}/17.py (100%)
+ rename Algorithm/{ => exercise01}/5IsDay.py (100%)
+ rename Algorithm/{ => exercise01}/7Narcissus.py (100%)
+ rename Algorithm/{ => exercise01}/8Bonus.py (100%)
+ rename Algorithm/{ => exercise01}/9Prime.py (100%)
+ rename "Algorithm/\347\254\254\344\272\214\347\253\240 \346\225\260\346\215\256\345\244\204\347\220\206\345\267\245\345\205\267\345\256\236\351\252\214.pdf" => "Algorithm/exercise01/\347\254\254\344\272\214\347\253\240 \346\225\260\346\215\256\345\244\204\347\220\206\345\267\245\345\205\267\345\256\236\351\252\214.pdf" (100%)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+c============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
