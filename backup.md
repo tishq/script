@@ -4607,3 +4607,48 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 4c0b3e9] commit
+ 1 file changed, 68 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 08月 06日 星期二 20:00:01 CST
+java==========================================================
+[master f7ea845] commit
+ 11 files changed, 166 insertions(+), 234 deletions(-)
+ rename mr/{javaLearn/javaLearn.iml => JavaDA/JavaDA.iml} (100%)
+ rename mr/{javaLearn => JavaDA}/pom.xml (80%)
+ create mode 100644 mr/JavaDA/src/main/java/day01/Test.java
+ delete mode 100644 mr/javaLearn/src/main/java/com/ex/java/Rucursion.java
+ delete mode 100644 mr/javaLearn/target/classes/com/ex/java/Rucursion.class
+python========================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+android=======================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+c============================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+md============================================================
+[master 1a0613f] commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 19-08/02.md
+algorithm=====================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+junior_project================================================
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+script========================================================
