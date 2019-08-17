@@ -5024,3 +5024,94 @@ junior_project================================================
 分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
 script========================================================
 已经是最新的。
+[master 6975332] commit
+ 1 file changed, 60 insertions(+)
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+finish========================================================
+finish========================================================
+finish========================================================
+2019年 08月 17日 星期六 20:00:01 CST
+java==========================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+python========================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+android=======================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+c============================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+md============================================================
+已经是最新的。
+[master a927094] commit
+ 35 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 imgs/2019-05-18_002.png
+ delete mode 100644 imgs/2019-05-18_oo1.png
+ delete mode 100644 imgs/2019-05-24_001.png
+ delete mode 100644 imgs/2019-05-24_002.png
+ delete mode 100644 imgs/2019-05-24_003.png
+ delete mode 100644 imgs/2019-05-24_004.png
+ delete mode 100644 imgs/2019-05-24_005.png
+ delete mode 100644 imgs/2019-05-26_001.png
+ delete mode 100644 imgs/2019-06-04_001.png
+ delete mode 100644 imgs/2019-06-04_002.png
+ delete mode 100644 imgs/2019-06-04_003.png
+ delete mode 100644 imgs/2019-06-30_001.png
+ delete mode 100644 imgs/2019-06-30_002.png
+ delete mode 100644 imgs/2019-07-01_001.png
+ delete mode 100644 imgs/2019-07-01_003.png
+ delete mode 100644 imgs/2019-07-01_004.png
+ delete mode 100644 imgs/2019-07-02_001.png
+ delete mode 100644 imgs/2019-07-02_002.png
+ delete mode 100644 imgs/2019-07-02_003.png
+ delete mode 100644 imgs/2019-07-02_004.png
+ delete mode 100644 imgs/2019-07-04_001.png
+ delete mode 100644 imgs/2019-07-04_002.png
+ delete mode 100644 imgs/2019-07-04_003.png
+ delete mode 100644 imgs/2019-07-04_004.png
+ delete mode 100644 imgs/2019-07-04_005.png
+ delete mode 100644 imgs/2019-07-07_001.png
+ delete mode 100644 imgs/2019-07-07_002.png
+ delete mode 100644 imgs/2019-07-08_001.png
+ create mode 100644 imgs/2019-08-16----001.png
+ create mode 100644 imgs/2019-08-16-01.png
+ create mode 100644 imgs/2019-08-16===21:35:56.png
+ delete mode 100644 imgs/mmexport1562051289973.jpg
+ delete mode 100644 imgs/mmexport1562051299132.jpg
+ delete mode 100644 imgs/mmexport1562051305525.jpg
+ delete mode 100644 imgs/mmexport1562051647460.jpg
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+algorithm=====================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+junior_project================================================
+已经是最新的。
+位于分支 master
+您的分支与上游分支 'origin/master' 一致。
+
+无文件要提交，干净的工作区
+分支 'master' 设置为跟踪来自 'origin' 的远程分支 'master'。
+script========================================================
+已经是最新的。
