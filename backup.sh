@@ -27,3 +27,7 @@ cd /home/hq/TISHQ/script && ./git.sh
 echo "finish========================================================"
 echo "finish========================================================"
 echo "finish========================================================"
+
+
+echo "jupyter_project" 
+scp -r root@45.77.178.68:/root/jupyter_project /home/hq/Desktop
